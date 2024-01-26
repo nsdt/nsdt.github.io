@@ -1,0 +1,1181 @@
+名付け方 : first author year _ problem (通称)
+
+
+* 105_1960_Rosenbrock_Automatic_Method_for_Finding_Greatest_and_Least_Value.pdf
+  Rosenbrock
+
+* 91_Powell_1962_An_Iterative_Method_for_Finding_Stationary_Values
+  Rosenbrock
+  Powell (Singular)
+
+* 1962_Krylov_Approximate_Calculation_of_Integrals
+  Tchebyquadに関する情報
+
+* 64_1963_FletcherPowell_A_Rapidly_Convergent_Descent_Method
+  Helical Valley
+  Rosenbrock
+  Powell (Singular)
+  フーリエAsin + Bcosのleast square(random)
+
+* 1963_FreudsteinRoth_Numerical_Solution_of_Systems_of_Nonlinear_Equations
+  FreudsteinRoth
+
+* 1964_Witte_Two_New_Direct_Minimum_Search_Procedures
+  Rosenbrock
+  SHALOW
+  STRAIT
+  CUBE (Leon)
+  DOUBLE
+  HEART
+
+* 1964_Powell_An_Efficient_Method_for_Finding_the_Minimum_of_a_Function_of_Several_Variables
+  Powellの見たことない (1+(x-y)^2)の逆数 + sin + exp((x+z)/y)みたいな (難しくないらしい）
+  1963_FletcherPowellのAsin + Bcos
+  Rosenbrock
+  Powell (Singular)
+
+
+* 71_1965_Matyas_Random_Optimization.pdf
+  Matyas
+
+* 1965_Fletcher_Function_Minimization_without_Evaluating_Derivatives
+  Rosenbrock
+  Helical Valley
+  Powel (Singular)
+  Chebyquad (Tchebyshev QuadratureのApproximation)の説明
+
+* 1965_Box__The Experimental Study of Physical Mechanisms
+  Meyer原型
+
+* 1965_Rosen__Construction_of_Nonlinear_Programming_Test_Problems
+  Rosen-Suzuki (dynamic constraint)
+  
+
+* 21_1966_Box_A_Comparison_of_Several_Current_Optimization_Methods
+  Box (exp2D,3Dが二つ)
+  1963_FletcherPowellのAsin + Bcos
+  Box Problem A
+  Box Problem B
+  Rosenbrock Post office parcel (x1x2x3)
+
+* 21_1976_BoxBetts_Solving_Nonlinear_Least_Square_Problem
+  Box
+  Rosenbrock
+  Powell (Singular)
+  Beale
+  Branin (見たことない)
+  FreudensteinRoth
+  Bard
+  JennrichSampson
+  Kowalik Osborn
+  Osborn
+  Howard (and Osborn)
+  
+
+
+* 1966_Leon_A_Comparison_of_Eight_Known_Optimizing_Procedures
+  Rosenbrock
+  Shalow
+  Strait
+  Cube  (Leon)
+  Beale [19]も調べる
+
+* 1966_Engvall_Numerical_Algorithm_for_Solving_Overdetermined_Systems_of_Nonlinear_Equations
+  2次式の和, 3次式の和 などの least square
+  漸化式のleast square
+
+* 1967_Kowalik___Australian_Computer_Journal_vol1
+  Kowalik
+
+* 1967_Zangwill_Minimizing_a_Function_without_Calculating_Derivatives
+  (x - y + z)^{2} + (-x + y + z)^{2} + (x + y - z)^{2}
+
+
+* 67_1968_Jennrich_Application of Stepwise Regression to Non Linear Estimation.pdf
+  Jennrich(least square)
+
+* 1968_Pearson_On_Variable_Metric_Methods
+  Rosenbrock
+  Wood
+  Shell Primal (active)
+  Shell Dual (active)
+  Hexagon (active)
+
+* 1968_Kowalik_Methods_for_Unconstrained_Optimization
+  Rosenbrock
+  Cube
+  Beale
+  Box
+  Enzyme
+  Watson
+  Rosen-Suzuki
+  Beale (active)
+
+* 1968_Kowalik_Analysis_of_Kinetic_Data_for_Allosteric_Enzyme_Reactions
+  Enzyme
+
+* 1968_Fiacco_Nonlinear_Programming
+  3次多項式一般化のやつ
+  他 sum .. ln(x/sum x) のような形
+  
+* 1968_Kowalik_Analysis_of_Kinetic_Data_for_Allosteric_Enzyme_Reactions
+  Enzyme
+
+
+* 73_1969_Miele_Study_on_Memory_Gradient_Method
+  Wood
+
+* 73_1969_Cragg_Study_on_Supermemory_Gradient_Method
+  Miele
+  Wood
+
+* 1969_Miele_Gradient_Methods_in_Mathematical_Programming_Part1
+  特になし
+
+
+* 1969_Miele_Gradient_Methods_in_Mathematical_Programming_Part2
+  Wood
+
+
+* 1969_Chichinadze_Psi-Transform_for_Solving_Linear_and_Nonlinear_Programming
+  Chichinadze
+
+* 1969_Miele_Gradient_Methods_in_Mathematical_Programming_Part1
+* 1969_Miele_Gradient_Methods_in_Mathematical_Programming_Part2
+  Mieleは73_1969_Cragg_Study_on_Supermemory_Gradient_Methodの方にあった
+
+
+* 8_1970_Bard_Comparison_of_Gradient_Methods.pdf
+  Bard (Problem 1) nonlinear least squares
+
+* 66_1970_Uosaki_Heuristic_Method_for_Maxima_Searching.pdf
+  Uosaki1,2
+
+* 174_1970_Zettl_Ein_Verfahren_zum_Minimieren_einer_Funktion.pdf
+  Rosenbrock
+  Zettl
+  Powell(Periodic/Singular)
+  Zettl2?
+
+* 1970_BeckerLago_Global_Optimization_Algorithm
+  BeckerLago
+  Beale (Constrained)
+  Field Effect Transistor
+
+* 1970_Colville__A_Comparative_Study_of_Nonlinear_Programming_Codes
+  何もなし
+
+* 1970_Shanno_Conditioning_of_Quasi-Newton_Method
+  Box (Simplified?)
+  Rosenbrock
+  Wood
+  Weibull (Holtzmanと同じ?)
+
+* 1970_Schmidt_Ableitungsfreiebleitungsfreie_Verfahren
+  Schmidt
+  asin + b cos + e のleast square 
+
+* 1970_Meyer_Theoretical_and_Computational_Aspects_of_Nonlinear_Regression
+  Rosenbrock
+  Thermistor
+  Spectroscopic (Gauss関数) データなし
+
+
+* 11-15_1971_Biggs_Minimization_Algorithms_Making_Use_of_Non-Quadratic_Properties
+  Biggs EXP2 - 6
+  Weibull
+
+* 24_1971_Brent_On_Davidenko-Branin_Method
+  Brent
+
+* 58_1971_GoldsteinPrice_On_Descent_from_Local_Minima
+　簡単そうな多項式が１種類
+  GoldsteinPrice (8次式)
+  GoldsteinPrice (expとsin)
+
+* 1971_Proc_5th_Princeton_Conference_Shekel
+  Shekelのabstract
+
+* 1971_Brown_Derivative_Free_Analogues_of_Levenberg-Marqurdt_and_Gaussian_Algorithms
+  Box 
+
+* 1971_Brown_New_Computational_Algorithms_for_Minimizing_Sum_of_Squares
+  Box
+  Quadrature Weightを求める問題(元がmaster thesisで式不明)
+  very large residual at minimum
+
+* 1971_Miele_Use_of_Augmented_Penalty_Function_in_Mathematical_Programming
+  active constraintの問題が4つ
+
+
+* 22_29-30_1972_Branin_Widely Convergent Method for Finding Multiple Solutions
+  Branin RCOS
+  Camel3, 6
+
+* 62_63_Hartman__1972_Some_Experiments_in_Global_Optimization
+  Branin RCOS
+  Hartman 3,6
+
+* 1972_Meyer_Modified_Damped_Least_Squares
+  Box
+  Rosenbrock
+  Meyer (多項式の分数と、expを混ぜたやつのleast square)
+  
+
+*** 1972_Himmelbrau__Applied_Nonlinear_Programming
+  sphere (circle)
+  Rosenbrock
+  nonlinear programming (active)
+  Bracken (active)
+  Paviani (active)
+  Jones (active)
+  Colville (多項式を展開すると何か他のやつになるかも)
+  Wood
+  Himmelbrau (active)
+  Shell Co. (active)
+  Proctor and Gamble (active)
+  Barnes (active)
+  Boxの多項式のやつ (展開すると何か他のやつになるかも)
+  Efroymson (active)
+  Huard (展開すると何か他のやつになるかも)
+  
+* 1972_Wolfe_On_The_Convergence_of_Gradient_Methods
+  Wolfe
+
+* 1972_Wolfe_Explicit_Solution_of_an_Optimization_Problem
+  Wolfeの多項式のやつ
+
+* 1972_Shubert_A_Sequential_Method_Seeking_the_Global_Max
+  Shubertだがcosではなくsin?
+
+* 1972_Lootsma_Numerical_Methods_for_Non-linear_Optimization
+  この中に Himmelblau,Dixon,Osborneの論文が載っている
+ Himmelblauの中
+  Zangwill
+  White Holstの名前でWitte CUBE
+  3次関数
+  Beale
+  Engvall
+  Box
+  Zangwill
+  Schmidt Vetters
+  Engvall
+  Fletcher Helical Valley
+  Bard
+  Powel Singular
+  Cragg Levy
+  Wood
+  見たことない有理関数
+ Dixonの中
+  Rosenbrock
+  Powell Singular
+  Wood
+  Box
+  Biggs EXP2,3,4,5
+  PEN
+  Rosenbrockの8次版
+  Weibull(Shanno)
+  RECIP
+ Osborneの中
+  Exponential
+  Gaussians plus Exponential
+
+
+
+
+*** 1973_Brent_Algorithms_for_Minimization_without_Derivatives.pdf
+  Rosenbrock
+  Cube
+  Beale
+  Helical Valley
+  Powellの見たことない
+  Box
+  Powell Singular
+  Wood
+  Chebyquad
+  Watson
+  Hilbert
+
+* 1973_Oren_Self-Scaling_Variable_Metric_Algorithms_without_Line_Search
+  Poorly scaled Quadratic (6 variables)
+  Hilbert-Matrix Quadratic (N variables)
+  Helical Valley
+  Wood
+  Rosenbrock
+  Squared Quadratic
+
+* 1974_Cutterridge_Powerful2-Part_Program_for_Solution_of_Nonlinear_Simultaneous_Equations
+  CutterEdge(Price Exponential)
+
+
+* 1974_Oren_Self-Scaing_Variable_Metric_Algorithm
+  Helical Valley
+  Wood
+  Rosenbrock (generalized)
+  Quartic
+
+* 1974_Bekey_A_Comparative_Evaluation_of_Two_Global_Search_Algorithms
+  Uosaki1だがHosakiと呼んでいる上に項7y^2が無い
+
+* DeJong 1975
+  3D sphere
+  Rosenbrock
+  step (xのfloor)
+  ix^{4} + gauss
+  shekel
+
+
+* 1975_Betts_A_Improved_Penalty_Function_Method_for_Solving_Constrained_Optimization
+  quadratic function 
+  rosenbrock
+  helical valley
+  powell periodic
+  rosenbrock (3Dと言っているが2Dと全く同じ)
+  constraint
+  three-stage specific thrust equation (linear equality constraint)
+  6D exponential (linear equality constraint)
+  quadraticがいくつか
+  colville no.3, no.7
+
+
+* 1976_McCormick_Computability_of_Global_Solutions_to_Factorable_Nonconvex_Programs
+  McCormick
+
+* 1976_Davidon_New_Least-Square_Algorithms
+  Polynomial curve fitting
+  exponential with zero residual (Box1966のやつらしい)
+  nonlinear problem with large residual
+  application to x-ray crystallography
+
+* 95_1977_Price_Controlled_Random_Search_Procedure_for_Global_Optimization
+  BeckerLago
+  Beale (Active)
+  Price (Periodic)
+  modified Rosenbrock
+  CutterEdge(Price Exponential)
+
+* 1977_Betts_An_Accelerated_Multiplier_Method_for_Nonlinear_Programming
+  1971_Mieleのactive constraintの問題
+  他にもactive constraintの問題がたくさん
+
+
+
+* 1978_Dixon_Szego_The_Global_Optimization_Problem
+  Shekel n=4, m=5, 7, 10
+  Hartman
+  Branin RCOS
+  GoldsteinPrice
+
+* 1978_Wolfe_Numerical_Methods_for_Unconstrained_Optimization
+  Rosenbrock
+  Wood
+  Miele Cantrell
+  Powell (Cyclic)
+  Fletcher (Helical Valley)
+  Dixon
+  Powell (Quartic)
+  Hartley
+  MeyerRoth 1,2,3?
+  Pereyra
+
+* 1978_deBiaseStochastic_Method_for_Global_Optimization
+  Camel6
+  BraninRCOS
+  GoldsteinPrice
+  Hartman
+  Shekel
+
+
+* 51_1979_ElAttar_Algorithm_for_L1-norm_Minimization
+  ElAttar
+
+
+* 46_47_1981_deVilliers_Continuation_Method_for_Nonlinear_Regression
+  deVilliers
+
+* 59_1981_Griewank_Generalized_Descent_for_Global_Optimization
+  Griewank (perturbed quadratic)
+  Griewank
+  Camel6
+
+* 1981_Schwefel__Numerical_Optimization_of_Computer_Models
+
+
+
+
+* 1981_More_Testing_Unconstrained_Optimization_Software
+  Rosenbrock
+  FreudensteinRoth
+  Powell badly scaled
+  Brown badly scaled (unpublished)
+  Beale
+  JennrichSampson
+  Hellical Valley
+  Bard
+  Gaussian (unpublished)
+  Meyer
+  Gulf Research
+  Box
+  Powell Singular
+  Wood
+  Kowalik Osborne
+  Brown Dennis
+  Osborne1
+  Biggs EXP6
+  Osborne2
+  Watson
+  Extended Rosenbrock
+  Extended Powell Singular
+  Penalty I
+  Penalty II
+  Variably Dimension
+  Trigonometric
+  Brown almost-linear
+  Discrete Boundary Value
+  Discrete Integral Equation
+  Broyden tridiagonal
+  Broyden banded
+  Linear function - full rank (unpublished)
+  Linear function - rank 1 (unpublished)
+  Linear function - rank1 with zero columns and rows (unpublished)
+  Chebyquad
+
+* 1981_Hock_Test_Examples_for_Nonlinear_Programming_Codes
+  Rosenbrock(Bettsをsourceに)
+  Schuldt
+  Asaadi
+  McCormick
+  Mieleという名で 
+    ln(1+x^2) - y
+    sin(pi x/12)cos(pi y/16)
+  BiggsのEXPじゃないやついろいろ(2次か3次多項式)
+  Picketのいろいろ(Bettsがsource)
+  No.105 Bracken McCormick -> Maximum-likelihood
+  Paviani
+  
+  
+
+* 1982_Levy_TopicsinGlobaloptimization
+
+
+  
+
+* 1982_Judge_Introduction_to_Theory_and_Practice_of_Econometrics
+* 1985_Judge_Theory_and_Practice_of_Econometrics
+  Judge
+
+
+* 1983_Price_Global_Optimization_by_Controlled_Random_Search
+  Transformer
+  Static Power Scheduling
+  Transistor Modeling (CutterEdge(Price Exponential))
+  Shekel
+  Hartman
+  Branin RCOS
+  GoldsteinPrice
+
+* 1983_Wingo_Estimating_Location_of_Cahchy_Distribution_by_Numerical_Optimization
+  (1993_Breimanによる)
+  Wingo A, B, C 
+
+
+* 1985_AluffniPentini_Global_Optimization_and_Stochastic_Differential_Equations
+  AluffiPentini 19,20
+  CamelBack6
+  Goldstein Price
+  Penalized Shubert (1d, 2d)
+  pi/n ( k2 sin^2 + sum ... ) の形
+  (sum ix^2)^{0.25} の形
+  Wolfe
+
+* 1985_Levy_Tunnneling_Algorithm_for_Global_Minimization
+  Shubert
+  Camel6
+  sinを使った複雑な形2種類
+
+*  1985_Slump_Determination_of_Location_of_Global_Max
+  (1993_Breimanによる=は誤植、38_1989_Breimanは正しい。
+　こちらの式(31)に対してlogを取ったものなので、正しくは-)
+  Poissonian pulse-train  likelihood
+   
+  
+* 17-19_1986_Bohachevsky_Generalized Simulated Annealing for Function Optimization
+  Bohachevsky1-3
+
+* 1986_Szu_Fast_Simulated_Annealing
+  x^4 - 16x^2 + 5x (nonconvexな例)
+
+* 1-3_1987_Ackley_Connectionist_Machine_for_Genetic_Hillclimbing
+  Ackley 1-3
+
+
+* 37_1987_Corana_Minimizing_Multimodal_Functions_of_Continuous_Variables
+  Corana
+  Rosenbrock
+  Rosenbrock generalized(N=3,4次元)
+
+* 1987_Goldberg_Genetic_Algorithms_with_Sharing
+  Ripple に似たやつ(Ripple25)
+  NoRippleに似たやつ(Ripple1)
+
+* 1987_Wayburn_Homotopy_Continuation_Methods_for_Computer-Aided_Process_Design
+  Homotopy Continuation Methodで f(x) = 0を解く
+
+
+* 1987_Schittkowski_More_Test_Examples_for_Nonlinear_Programming_Code
+  ...  
+
+
+
+* 40_1988_Csendes_Nonlinear parameter estimation by global optimization - efficiency and reliability.pdf
+  Csendes
+
+* 1988_Moore__Reliability_in_Computing
+  Rump
+
+* 1988_Stuckman_A_global_search_method_for_optimizing_nonlinear_systems
+  GoldsteinPrice
+  Branin RCOS
+  Shekel SQRN5,7,10
+  Hartman 3,6
+
+
+* 38_1989_Breiman_A_Deterministic_Algorithm_for_Global_Optimization
+  Branin RCOS
+  CamelBack6
+  Cauchy Likelihood : Wingo A, B, C
+  Cosine Mixture
+  Exponential
+  Griewank
+  Goldstein Price
+  Poissonian Pulse-train Likelihood : Slump & Hoenders
+* 38_1993_Breiman_A_Deterministic_Algorithm_for_Global_Optimization
+  Binomial Likelihood (Freedman & Navidi)
+
+
+* 48_1989_DixonPrice_Truncated_Newton_Method_using_Automatic_Differentiation
+  Boxに似てるけど多少違う
+  DixonPrice
+  Powell
+  Rosenbrock
+  Rosenbrockに似たやつ
+  Rosenbrock (generalized)
+  Wood (Colville)
+
+* 104_1989_Deb_An_Investigation_of_Niche_and_Species_Formation
+  sin^6(5pix)
+  NoRipple
+  Himmelbrau
+
+* 1989_Blum_Approximation_of_Boolean_Functions_by_Sigmoidal_Networks
+  ANN XOR
+
+* 1989_Schaffer_Study_Control_Params_Online_Perf_GA_Fcn_Opt_ICGA89
+  DeJong F1-F5
+  Sine Envelope Sine Wave
+  Stretched V Sine Wave
+  FIR Filter
+  30 city TSP
+  Graph Partition
+  
+* 1989_Deb_An_Investigation_of_Niche_and_Species_Formation_in_GA
+  DebとGoldbergの共著
+  DeJongやDeb1989を使っているらしい
+
+
+* 1990_Styblinski_Experiments_in_Nonconvex_Optimization
+  Styblinski-Tan (Example1, 2, 3)
+
+
+* 1991_Benke_A_Direct_Search_Algorithm_for_Global_Optimization
+  MultiGaussian
+  Uosaki
+  Beltrami?
+  Rastrigin
+
+* 1991_Dekkers_Global_Optimization_and_Simulated_Annealing
+  GoldsteinPrice
+  BraninRCOS
+  Hartmann 3, 6
+  Shekel 5, 7, 10
+  2D penalized Shubert (P3, P8, P16, P22?)
+
+* 1991_Davidor_A_Naturally_Occuring_Niche_and_Species_Phenomenon
+  Deb1, Non-Ripple (Goldbergに似たやつ)
+
+* 1992_Stuckman-Easom_A_comparison_of_Bayesian_sampling_global_optimization_techniques
+  GoldsteinPrice
+  Branin RCOS
+  Shekel SQRN5,7,10
+  Six hump camel
+  2D Shubert (Levy)
+  Stuckman (random)
+  Easom
+
+
+* 1993_Back_An_Overview_of_Evolutionary_Algorithms_for_Paramet
+  Ackley (generalized)
+  Sphereの各項にceilしたもの(Step)
+
+
+* 165_Courrieu_1993_A_Distributed_Search_Algorithm_for_Global_Optimization
+* 165_Courrieu_1997_The_Hyperbell_Algorithm_for_Global_Optimization
+  Csendes
+  W
+  Griewank
+
+* 1993_Beasley_A_Sequentioal_Niche_Technique_for_Multimodal_Function_Optimization
+  Deb F1,F2 (even)
+  Deb F3,F4 (uneven)
+  Himmelblau (modified)  
+
+* 1993_Stillinger_Toy_Model_for_Protein_Folding
+  Toy model
+
+
+* 1995_Salomon__Reevaluating_GA_Performance_under_Coordinate_Rotation
+  Sphere
+  Rosenbrock
+  DeJong F3,F4,F5(Shekel)
+  Rastrigin
+  Schwefel
+  Ellipsoid (10^i)
+  ?
+  Salomon
+  Griewangk
+  Ackley (generalized)
+
+* 1995_Michalewicz_GA_Numerical_Optimization_and_Constraints
+  active constraintの問題がたくさん
+
+
+* 53_1996_Whitley_Evaluating_Evolutionary_Algorithms
+  (De Jongによる)
+  Sphere, Rosenbrock, floor(x), ix^4 + noise, shkel風のなにか
+  Rastrigin
+  Schwefel
+  Griewangk
+  Sine Enverope Sine Wave
+  Stretched V sine wave
+  Ackley2
+  Powell singular
+  Eggholder (analogous to Schwefel function)
+  Rana
+  0.5 + frac{ sin^2 sqrt( 100 ...) }{ 1 + 0.001 (x^2  ...}(analogous to sine enverope)
+
+* 1996_2nd_ICEO_Test_Problems_screenshot
+  generalize Rosenbrock
+  OddSquare
+  modified Langerman
+  modified Shekel
+  Epistatic Michalewicz
+  Chebychev
+  Bump
+
+* 1996_Pinter_Global_Optimization_in_Action
+  Pinter 1,2
+  Pinter 3variables
+
+* 1996_Bersini_Results_of_the_first_international_contest_on_evolutionary_optimisation_1st_ICEO
+  Sphere
+  Griewank
+  Shekel
+  Michalewicz
+  Langerman
+
+* 1996_Back_Evolutionary_Algorithms_in_Theory_and_Practice
+  Sphere
+  Step
+  generalized Ackley
+  Fletcher Powell
+  Fractal
+
+* 1996_Michalewicz__Evolutionary_Algorithms_for_Constrained_Parameter_Optimization
+  nonlinear programming (dynamic constraint)が10くらい
+
+
+* 26-28_1997_Bukin
+  Bukin
+
+
+* 57_1997_Giunta_Aircraft_Multidisciplinary_Design_Optimization
+  Giunta
+
+* 103_104_1997_Tsutsui_Forking_GAs_with_Search_Space_Division
+  DeJong 1
+  Goldberg Deceptive
+  Frequency Modulation Sounds
+  Modified Griewank
+  Ripple
+  No-Ripple
+  
+* 1997_Price_DE_vs._the_functions_of_the_2nd_ICEO
+  generalize Rosenbrock
+  OddSquare
+  modified Langerman
+  modified Shekel
+  Epistatic Michalewicz
+  Chebychev
+  Bump
+
+
+
+* 5_1998_Adjiman_A_Global_Optimization_Method_aBB_for_General_Twice_Differentiable
+  Adjiman  
+
+* 1998_Chung_Reynolds_CAEP_Evolution_Based_Tool_for_Real-Valued_Function_Optimization
+  Sphere
+  Rosenbrock
+  Step
+  DeJong F4
+  Shekel Foxholes
+  Bohachevsky
+  Rastrigin
+  Colville (Wood)
+  Ackley Back
+  GoldsteinPrice
+  Camel6
+  Easom
+  Floudas
+  Watson
+  Koon F3
+  Griewank
+  Kowalik
+  Matyas
+  Zettl
+  Michalewicz
+  Langerman
+  Ellipsoid
+  Quadratic
+  Schwefel 2.21, 2.22
+  Box
+  Shubert
+  Branin RCOS
+  Rastrigin 2D
+
+
+* 7_1999_Clerc_The_Swarm_and_the Queen
+  Alpine 2
+  Alpine
+  Rosenbrock
+
+* 1999_Ursem_Multinational_Evolutionary_Algorithms
+  Ursem F1 5 hills - 4 valleys
+  Ursem F2 center peak and 4 neighbors
+  Six Hump Camel
+  Ursem F4 Waves (10 peaks)
+
+* 1999_Michalewicz Z. Genetic Algorithms + Data Structures = Evolution Programs (3ed)
+  DeJong F1-F5
+  Schaffer F6, F7
+  Goldstein-Price
+  Branin RCOS
+  Shekel SQRN5,7,10
+  Six-hump camel back
+  Shubert
+  Stuckman (random)
+  Easom
+  Bohachevsky #1-3
+  Colville (Wood)
+  
+
+
+* 2000_Vrahatis_A_Class_of_Unconstrained_Minimization_Algorithms
+  Artificial NN XOR
+  More, Variably Dimension
+  More, Trigonometric
+  More, Penalty
+  Texture Classification (パラメータ？)
+  Numeric font learning (パラメータ?)
+
+* 2000_Madsen_Testing_Branch_and_Bound_Methods_for_Global_Optimization
+  Rosenbrock
+  McCormic
+  Box Betts
+  Paviani
+  Generalized Rosenbrock
+  Goldstein Price
+  Shekel
+  Levy 4,5,6,7
+  Griewank
+  Six Hump Camel
+  Branin RCOS
+  Shubert
+  Hansen
+  Cola
+  
+
+* 2001_Parsopoulos_Stretching_Technique_for_Obtaining_Global_Minimizers
+  Artificial NN XOR
+  Levy No.3,5,8
+  Freudenstein-Roth
+  GoldsteinPrice
+  Corana2D,4D
+  Artificial NN XOR
+
+* 31_32_2003_Chen_Computer_Simulation_of_Electron_Positron_Annihilation
+  Chen V
+  Chen Bird
+
+* 2004_Hansen_Global_Optimization_using_Interval_Analysis
+  Rump's example
+  Camelについていろいろ
+
+* 2004_Silagadze_Finding_Two-dimensional_Peaks
+* 2007_Silagadze_Finding_Two-dimensional_Peaks
+  Chichinadze
+  Schwefel
+  Ackley
+  Matyas
+  Booth
+  Easom
+  Levy 5
+  Goldstein Price
+  Griewank
+  Rastrigin
+  Rosenbrock
+  Leon
+  Giunta
+  Beale
+  Bukin N2,4,6
+  Styblinski-Tang
+  Zettl
+  Three Hump Camel
+  Schaffer
+  Levy 13
+  McCormic
+
+
+* 42_2005_Damavandi_Hybrid_Evolutionary_Programming_Method_for_Circuit_Optimization.pdf
+  Damavandi
+
+
+* 2005_Price_Storn__Differential_Evolution
+  Sphere
+  Ellipsoid (2^j x^2)
+  Generalized Rosenbrock
+  Schwefel Ridge (No.?)
+  Neumaier No.3
+  AckleyBack
+  Griewangk?
+  Rastrigin
+  Salomon
+  Whitley (Griewank & Rosenbrock)
+  Storn's Chebyshev 
+  Lennard-Jones
+  Hilbert
+  modified Langerman
+  Shekel Foxholes
+  Odd Square
+  Katsuura
+  Schwefel
+  Epistatic Michalewicz
+  Rana
+  
+
+* 2005_Adorio_Multivariate_Test_Functions_Library_in_C
+  Ackley
+  Beale
+  Bohachevsky 1,2?
+  Booth
+  Box Betts
+  Branin RCOS
+  Three Hump Camel
+  Six Hump Camel
+  Chichinadze
+  Cola
+  Colville (Wood)
+  Corana
+  Easom
+  Egg holder
+  Exp2
+  Gear
+  Goldstein Price
+  Griewank
+  Hansen
+  Hartman
+  Himmelblau
+  Hyperellipsoid
+  Kowalik
+  Holzman
+  Uosaki
+  Katsuuras
+  Langerman
+  Lennard-Jones
+  Leon
+  Levy 3,5,8
+  Matyas
+  MaxMod
+  McCormick
+  Michalewicz
+  Multimod
+  Neumaier (Perm, Powersum, Trid)
+  OddSquare
+  Paviani
+  Plateau
+  Powell
+  Price
+  Quartic (DeJong F4)
+  Rana
+  Rastrigin
+  Rosenbrock
+  Schaffer
+  Shubert
+  Schwefel
+  Shekel foxholes
+  Sphere
+  Step
+  Stretched V
+  Sum Squares
+  Trecanni
+  Trefethen4
+  Watson
+  XOR
+  Zettl
+  Zimmerman
+
+
+
+* 16_2006_Mishra_Some_New_Test_Functions_for_Global_Optimization_and_Repulsive_PSO.pdf
+  - New
+  Bird
+  Carrom table
+  Cross
+  Cross in tray
+  Cross-leg table
+  Crowned cross
+  Holder table
+  Pen holder
+  Schaffer 1-4 (modified)
+  Test tube holder (a,b)  
+  - Existing
+  Bukin 4,6
+  Camel3
+  Chichinadze
+  Eggholder
+  Giunta
+  Hougen
+  Leon
+  Levy 13
+  McCormick
+  Schaffer
+  Sine envelope sin wave
+  Styblinski-Tang
+  Zettle
+
+* 39_2006_Mishra_Global_Optimization_by_DE_and_PSO
+  New Function 1-4,8
+  Quintic N=4,30
+  NeedleEye N=10,30
+  ZeroSum N=10,30
+  Corana N=4
+  modified RCOS
+  FreudensteinRoth
+  ANN XOR
+  Perm 1,2
+  PowerSum
+  GoldsteinPrice
+  Bukin 6
+  DCS
+  New Factorial
+  New Decanomial
+  Judge
+  New Dodecal
+  New Sum=Prod
+  New AM=GM
+  Yao-Liu いろいろ
+  Linear Programming
+  Hougen
+  Giunta
+  EggHolder
+  Trid
+  Griewank
+  Weierstrass
+  Levy 3,5,8
+  Rastrigin
+  AckleyBack
+  Michalewicz
+  Schwefel
+  Shubert
+  DixonPrice
+  Shekel
+  Paviani
+  Branin 1,2
+  Bohachevsky 1-3
+  Easom
+  generalized Rosenbrock
+  Crossleg Table
+  Cross
+  Cross in Tray
+  Crowned Cross
+  Testtube Holder
+  Holder Table
+  Carrom Table
+  Pen Holder
+  Bird
+  Chichinadze
+  McCormick
+
+
+
+* 2006_Mishra_Performance of_DE_and_PSO_on_Harder_Benchmark_Functions
+  Perm 1,2
+  Power Sum
+  Bukin 6
+  Zero Sum
+  Hougen
+  Giunta
+  DCS
+  Kowalik/Yao-Liu15
+  DeJong4 (Yao-Liu7)
+  Fletcher-Powell
+  New function 1,2
+
+* 2006_MishraC_Performance_of_RPSO_in_Global_Optimization
+  Typical Multimodal ?
+  Typical Nonlinear ?
+  AckleyBack
+  Beale
+  Bohachevsky
+  Booth
+  Branin RCOS
+  DixonPrice
+  Easom
+  Griewank
+  Himmelbrau
+  Hump
+  Levy 3, 5, 8
+  Matyas
+  Michalewicz
+  Paviani
+  Rastrigin
+  generalized Rosenbrock
+  Schwefel ?
+  Shekel
+  Shubert
+  Trid
+  Weierstrass
+  Zakharov
+
+
+* 92_2006_Powell_Model-Based_Randomized_Methods
+  Shekel (DeJongの5番目)
+  別のShekel
+  Rosenbrock, N=20
+  Powell, N=20
+  Trigonometric, N=20
+  Griewank, N=20
+  Pinter, N=20
+
+* 98_2006_Qing_Dynamic_DE_Strategy_and_Applications_in_Electromagnetic_Inverse_Scattering
+  Qing ( sum (xi - i)^2 )
+
+* 2006_Eusuff_Shuffled_Frog-Leaping_Algorithm
+  DeJong F1,F2
+  generalized Rosenbrock (N=9)
+  Schaffer F6
+  Shekel foxholes
+  他に linear programmingの問題
+  
+
+* 6_2007_Rahnamayan_Novel_Population_Initialization_Method_for_Accelerating_Evolutionary_Algorithms
+  Ackley (generalized)
+  Alpine 1
+  Beale
+  Branin RCOS
+  CamelBack6
+  Colville
+  DeJong 4
+  Quartic (DeJong4 + noise)
+  Easom
+  Ellipsoid
+  Griewank
+  Hartman 1, 2
+  Inverted cosine wave (Masters)
+  Kowalik
+  Levy
+  Matyas
+  Michalewicz
+  Pathological
+  Perm
+  Rastrigin
+  Rosenbrock (generalized)
+  Schaffer
+  Schwefel 1.2, 2.21, 2.22
+  Sphere
+  Shekel
+  Step
+  Sum of power
+  Tripod
+  Zakharov
+
+* 2007_Silagadze_Finding_Two-Dimensional_Peaks
+  Chichinadze
+  Schwefel X
+  Ackley Back
+  Matyas
+  Booth
+  Easom
+  Levy5
+  Levy13
+  GoldsteinPrice
+  Griewank
+  Rastrigin
+  Rosenbrock
+  Leon
+  Giunta
+  Beale
+  Bukin 2,4,6
+  Styblinski-Tang
+  Zettl
+  Camel3
+  Schaffer
+  McCormic
+
+* 156-159_2009_Ronkkonen_PhD_Continuous_Multimodal_Global_Optimization_with_DE
+  Cosine Family
+  Quadratic Family
+  Hump Family
+  Branin RCOS
+  Himmelblau
+  Shubert
+  Six Hump Camel
+  Vincent
+  Rastrigin (modified)
+  Deb1, Deb3
+  Bohachevsky
+  Shekel Foxholes
+  Ursem F1,F3,F4
+  Ripple
+  Ripple25
+  
+
+* 103_104_2010_Framework_for_Generating_Tunable_Test_Functions
+  Shubert
+  Vincent
+  Rastrigin
+  Ripple
+  Ripple25
+
+* 169-172_2010_Yang__arXiv_Test_Problems_in_Optimization
+  Ackley Back
+  DeJong F1-F3
+  Easom
+  Equality-Constrained
+  Griewank
+  Michaelwicz
+  Perm (Neumaier)
+  Rastrigin
+  Rosenbrock
+  Schwefel
+  Six Hump Camel
+  Shubert
+  Xin-She Yang
+  Zakharov
+
+* 2018_Muhammad_Testing_Optimization_Algorithms
+  Pyramid?
+
+* 2022_Layeb__New_Hard_Benchmark_Functions
+  Layeb 1-20
+

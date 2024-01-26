@@ -1,0 +1,342 @@
+
+10. Beale function
+H.-P, Schwefel 1981によると、
+E. M. L. Beale, 
+On an iterative method for finding a local minimum of a function of more than one variable
+Statistical Techniques Research Group, Technical Report No. 25, Princeton University, 1958.
+らしいが、本になっている？
+https://www.walmart.com/ip/On-an-iterative-method-for-finding-a-local-minimum-of-a-function-of-more-than-one-variable-by-E-M-L-Beale-1958-LEATHER-BOUND/1192185497?wmlspartner=wlpa&selectedSellerId=101121701
+以下ならどうか？ 
+E. M. L. Beale  -> ここには多次元2次方程式しかなかった
+On quadratic programming
+Naval Research Logistics Quarterly
+Volume6, Issue3 September 1959 Pages 227-243
+https://onlinelibrary.wiley.com/doi/abs/10.1002/nav.3800060305
+https://catalog.hathitrust.org/Record/000637180
+ならば、以下なら？ -> ここにもなかった
+Journal of the Royal Statistical Society: Series B (Methodological)
+On Minimizing a Convex Function Subject to Linear Inequalities
+E. M. L. Beale Volume17, Issue2 July 1955 Pages 173-184
+https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/j.2517-6161.1955.tb00191.x
+
+Beale1958のstarting pointについて
+Leon1966によると
+Ref.14にあるらしい
+
+
+36. Colville (Wood)
+A Comparative Study on Nonlinear Programming Codes
+IBM Corporation. New York Scientific Center
+1968
+だが、以下も同じ？ 
+
+A COMPARATIVE STUDY OF NONLINEAR PROGRAMMING CODES (取り寄せ)　-> ここにはなかった
+From the book Proceedings of the Princeton Symposium on Mathematical Programming
+A. R. Colville
+https://www.degruyter.com/document/doi/10.1515/9781400869930-028/pdf
+
+88. 
+D. A. Paviani
+PAVIANI, DARCY ANTONIO, 
+A NEW METHOD FOR THE SOLUTION OF THE GENERAL NONLINEAR PROGRAMMING PROBLEM
+Ph. D. Thesis, The University of Texas at Austin, 1969, 274 pages; 6921871
+https://disexpress.umi.com/dxweb/results.html?QryTxt=&By=Paviani&Title=&pubnum=
+または 
+D. A. Paviani, D. M. Himmelblau, (1969) Constrained Nonlinear Optimization by Heuristic Programming. Operations Research 17(5):872-882.
+https://pubsonline.informs.org/doi/epdf/10.1287/opre.17.5.872
+
+
+Rastrigin?
+取り寄せ済み　→　ここにはなかった
+Solution of inverse problems by statistical optimization methods
+L. A. Rastrigin
+Reviews of Geophysics, Volume3, Issue1
+February 1965
+Pages 111-114
+https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/RG003i001p00111
+
+
+Bruno O. Shubert, (1972) 受取済み
+Sequential Optimization of Multimodal Discrete Function with Bounded Rate of Change. 
+Management Science 18(11):687-693.
+https://pubsonline.informs.org/doi/epdf/10.1287/mnsc.18.11.687
+
+
+大学所蔵
+Test Functions with Variable Attraction Regions for Global Optimization Problems
+M. Gaviano & D. Lera 
+Journal of Global Optimization volume 13, pages207–223 (1998)
+
+
+More test examples for nonlinear programming codes / Klaus Schittkowski
+p. 149
+によると Gear train of minimum inertia という問題があって以下が元(要取り寄せ)
+An introduction to computer-aided design / [by] Charles R. Mischke
+Englewood Cliffs, N.J. : Prentice-Hall , [1968]
+
+Trefethenの出展？
+The SIAM 100-Digit Challenge: A Study in High-Accuracy Numerical Computing
+
+More test examples for nonlinear programming codes / Klaus Schittkowski
+大学所蔵
+T57.8.S33 1987
+Lecture notes in economics and mathematical systems <> 282
+
+Test examples for nonlinear programming codes / Willi Hock, Klaus Schittkowski ; : gw, : us. -- Springer-Verlag, c1981. -- (Lecture notes in economics and mathematical systems ; 187).
+
+
+1976_Davidon_New_Least_Squares..のExample4.4の元
+Acta Cryst. (1976). A32, 120-124
+https://doi.org/10.1107/S0567739476000223
+Application of a new least-squares method to structure refinement
+J. P. Chesick, W. C. Davidon and C. Schoen
+https://scripts.iucr.org/cgi-bin/paper?S0567739476000223
+
+
+---
+取り寄せ済
+
+Bukin No.2関係
+J. A. Nelder and R. A. Mead
+A Simplex Method for Function Minimization
+The Computer Journal, Volume 7, Issue 4, January 1965, Pages 308–313
+
+8. Bard (取り寄せ)
+Comparison of Gradient Methods for the Solution of Nonlinear Parameter Estimation Problems
+Yonathan Bard
+SIAM Journal on Numerical Analysis
+Volume 7, Issue 1
+1970
+https://epubs.siam.org/doi/epdf/10.1137/0707011
+
+70. Leon (取り寄せ)
+A. Leon,
+A comparison among eight known optimizing procedures.
+in : Recent advances in optimization techniques : proceedings / edited by Abrahim Lavi and Thomas P. Vogl
+Abraham Lavi, Thomas P. Vogl
+p. 23-46
+
+〇 Price Exponential
+(書庫に所蔵)
+Electronics letters 10 > 10 > 182 - 184
+1974
+Cutteridge, O.P.D.
+Powerful 2-part program for solution of nonlinear simultaneous equations
+
+33. Chichinadze  (取り寄せ済み)
+V.K.Chichinadze
+The Ψ-transform for solving linear and non-linear programming problems
+Automatica
+Volume 5, Issue 3, May 1969, 
+Pages 347-355
+https://www.sciencedirect.com/science/article/abs/pii/0005109869900764?via%3Dihub
+
+Rosenbrock?  (取り寄せ済み)
+Self-Scaling Variable Metric (SSVM) Algorithms Part II: Implementation and Experiments
+Shmuel S. Oren
+Management Science Vol. 20, No. 5, 863-874
+1974
+https://pubsonline.informs.org/doi/epdf/10.1287/mnsc.20.5.863
+
+Generalized Rosenbrockの形自体は
+Corana, M. Marchesi, C. Martini, and S. Ridella. (オンラインで見れる)
+Minimizing multimodal functions of continuous variables with the “simulated annealing” algorithm—Corrigenda for this article is available here. 
+ACM Trans. Math. Softw. 13, 3 (Sept. 1987), 262–280.
+https://dl.acm.org/doi/abs/10.1145/29380.29864
+
+Artificial NN XOR？ (取り寄せ済み)
+Approximation of Boolean Functions by Sigmoidal Networks: Part I: XOR and Other Two-Variable Functions 
+E. K. Blum
+Neural Computation (1989) 1 (4): 532–540
+https://direct.mit.edu/neco/article-abstract/1/4/532/5500/Approximation-of-Boolean-Functions-by-Sigmoidal
+
+
+1982_Levy_Topicas_in_Global_OptimizationのReferenceより、
+A . V .   Levy  and  A.  Montalvo,  "  The Tunnelling  Algorithm  for  the  Global Minimization  of  Functions
+Dundee  Biennal  Conference  on  Numerical  Analysis,Univ, of  Dundee,Scotland, 1977.
+について、Proceedingsは
+Lecture Notes in Mathematics, 630
+だが、submitted papersのリストに載っているだけで、論文自体は載っていない
+同様に、
+A.V.  Levy  and  A.  Calderon,  "A  Robust  Algorithm  for  Solving  Systems  of Non-linear  Equations"
+Numerical Analysis: Proceedings of the 8th Biennial Conference Held at Dundee, Scotland, June 26-29, 1979 
+は
+Lecture Notes in Mathematics, 773
+だが、submitted papersのリストに載っているだけで、論文自体は載っていない
+また、後者はタイトルと著者も違って
+A. V. Levy and A. C. Segura, "Stabilization of Newton's method for the solution of a system of noninear equations"
+
+
+Mishra2006にあるJudge
+(図書館所蔵　 HB139.T48)
+The theory and practice of econometrics 2nd ed/ George G. Judge
+p.956-7
+
+
+104. Ripple 25
+(図書館所蔵　QA402.5)
+Genetic Algorithms With Sharing for Multimodal Function Optimization
+David E. Goldberg, Jon Richardson
+in: Genetic Algorithms and their Applications
+Edition 1st Edition
+1987 Imprint Psychology Press
+
+
+Leonは、1966_Leonによると
+B. F. Witte and W. R. Holst,
+"Two New Direct Minimum Search Procedures for Functions of Several Variables"
+1964 Spring Joint Computer Conference in Washington D. C., 27pp
+が出所らしい
+
+
+Shekel
+J. Shekel, 
+Test functions for multimodal search techniques
+Fifth Annual Princeton Conference on Information Science and Systems
+1971 らしいが手に入らない？
+↓
+取り寄せ可能 (要取り寄せ)
+Proceedings of the Fifth Annual Princeton Conference on Information Sciences and Systems
+
+
+Powellの見たことない形 (1973_Bealeから参照)
+An efficient method for finding the minimum of a function of several variables without calculating derivatives 
+M. J. D. Powell
+The Computer Journal, Volume 7, Issue 2, 1964, Pages 155–162,
+
+Watson (要取り寄せ)
+Methods for unconstrained optimization problems / by J. Kowalik and M.R. Osborne
+ISBN-10 ‏ : ‎ 9780444000415
+
+Chebyquad (要取り寄せ)
+Approximate calculation of integrals / Vladimir Ivanovich Krylov ; translated by Arthur H. Stroud
+
+McCormick? (要取り寄せ)
+Nonlinear programming : sequential unconstrained minimization techniques / [by] Anthony V. Fiacco [and] Garth P. McCormick, 1969
+
+MeyerRoth
+Modified Damped Least Squares: An Algorithm for Non-linear Estimation
+ROBERT R. MEYER, PHILIP M. ROTH
+IMA Journal of Applied Mathematics, Volume 9, Issue 2, April 1972, Pages 218–233
+https://academic.oup.com/imamat/article-abstract/9/2/218/674642
+
+
+Genetic algorithms + data structures = evolution programs / Zbigniew Michalewicz
+図書館所蔵アリ QA76.618.M53 1996
+
+
+Whitleyからの引用[1]
+大学所蔵 QA402.5
+Proceedings of the Fourth International Conference on Genetic Algorithms : University of California, San Diego, July 13-16, 1991
+の中の
+Y. Davidor
+A naturally occurring niche & species phenomenon: the model and first results
+pp. 257-263
+
+Whitleyからの引用[39]
+大学所蔵 QA402.5.I512
+Proceedings of the Third International Conference on Genetic Algorithms : George Mason University, June 4-7, 1989
+A Study of Control Parameters Affecting Online Performance of Genetic Algorithms for Function Optimization
+Pages 51–60
+
+Osborn1, 2
+1981_Moreによると、
+Numerical methods for non-linear optimization / edited by F.A. Lootsma
+p. 171-189
+(取り寄せ可)
+
+McCormick
+Nonlinear programming : theory, algorithms, and applications / Garth P. McCormick. -- Wiley, c1983.
+
+MeyerRoth?
+Nonlinear Programming
+Proceedings of a Symposium Conducted by the Mathematics Research Center, the University of Wisconsin–Madison, May 4–6, 1970
+1970, Pages 465-486
+Nonlinear Programming
+Theoretical and Computational Aspects of Nonlinear Regression
+R.R.MEYER
+
+Wayburn 1-3
+Computers & Chemical Engineering
+Volume 11, Issue 1, 1987, Pages 7-25
+Homotopy continuation methods for computer-aided process design
+T.L.Wayburn J.D.Seader
+https://www.sciencedirect.com/science/article/abs/pii/0098135487800029
+
+169-172 Xin-She Yang
+Engineering optimization : an introduction with metaheuristic applications / Xin-She Yang
+
+144. Styblinski-Tang
+Neural Networks
+Volume 3, Issue 4, 1990, Pages 467-483
+Neural Networks
+Original contribution
+Experiments in nonconvex optimization: Stochastic approximation with function smoothing and simulated annealing
+M.A.Styblinski T.-S.Tang
+https://www.sciencedirect.com/science/article/abs/pii/089360809090029K
+
+Shubert
+SIAM Journal on Numerical AnalysisVol. 9, Iss. 3 (1972)10.1137/0709036
+A Sequential Method Seeking the Global Maximum of a Function
+Bruno O. Shubert
+
+Ronkkonenのtest functionについての情報
+https://link.springer.com/chapter/10.1007/978-3-540-89694-4_25
+と
+A framework for generating tunable test functions for multimodal optimization
+Jani Rönkkönen, Xiaodong Li, Ville Kyrki & Jouni Lampinen 
+Soft Computing volume 15, pages1689–1706 (2011)
+https://link.springer.com/article/10.1007/s00500-010-0611-1
+
+
+168. Wolfe
+Schwefelによると
+P. Wolfe
+On the convergence of gradient methods under constraints
+IBM Zurich, Res. Lab., report RZ-204, 1966
+だが見つからない。以下ではどうか？
+Philip Wolfe (大学所蔵)
+On the convergence of gradient methods under constraint
+IBM Journal of Research and Development
+Volume 16 Issue 4 
+July 1972 
+pp 407–411
+
+XX. Kowalik
+H.-P, Schwefel 1981によると、
+Kowalik, J. (1967), A note on nonlinear regression analysis, Austral. Comp. J. 1, 51–53
+だが、手に入らない。以下ならどうか？
+↓
+J.Kowalik and J.F.Morrison  (取り寄せ)　-> おそらく違う
+Analysis of kinetic data for allosteric enzyme reactions as a nonlinear regression problem
+Mathematical Biosciences
+Volume 2, Issues 1–2, 1968, Pages 57-66
+https://www.sciencedirect.com/science/article/abs/pii/0025556468900060
+
+Beale (Active)
+1970_Becker_Lagoによると
+J. Abadie, Nonlinear Programming, p150, 1967
+
+
+Aluffi-Pentini
+AluffiPentini1985によると、
+A. V. Levy and A. Montalvo, “Algoritmo de Tunelizacion para la Optimacion Global de Funciones”, Comunicaciones Tecnicas, Serie Naranja, No. 204, IIMAS-UNAM, Mexico D. F., 1979.
+らしいが、以下が英訳ではないか？
+
+The Tunneling Algorithm for the Global Minimization of Functions -> ここにはほかの関数がいろいろ(Shubert等)
+A. V. Levy and A. Montalvo
+SIAM Journal on Scientific and Statistical Computin Vol. 6, Iss. 1 (1985)
+https://epubs.siam.org/doi/abs/10.1137/0906002
+
+
+Easom?
+Easom, E. E. (1990), A survey of global optimization techniques, M. Eng. thesis, Univ.
+Louisville, Louisville, KY
+
+
+20．Booth function (取り寄せ)
+A. D. BOOTH
+AN APPLICATION OF THE METHOD OF STEEPEST DESCENTS TO THE SOLUTION OF SYSTEMS OF NON-LINEAR SIMULTANEOUS EQUATIONS 
+The Quarterly Journal of Mechanics and Applied Mathematics, 
+Volume 2, Issue 4, 1949, Pages 460–468
+https://academic.oup.com/qjmam/article-abstract/2/4/460/1930315
